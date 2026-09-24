@@ -13,6 +13,8 @@
     <string name="action_back">Atrás</string>
     <string name="action_cancel">Cancelar</string>
     <string name="action_close">Cerrar</string>
+    <string name="action_collapse">Contraer</string>
+    <string name="action_expand">Expandir</string>
     <string name="action_delete">Eliminar</string>
     <string name="action_delete_confirm_message">¿Seguro que quieres eliminarlo?</string>
     <string name="action_delete_confirm_title">¿Eliminar?</string>
@@ -1279,6 +1281,7 @@
     <string name="settings_simkl_sync_info_library_statuses">Las series situadas en las listas 'En pausa' (On Hold) o 'Abandonadas' (Dropped) de Simkl se ocultan de Seguir viendo mientras permanezcan en dichas listas.</string>
     <string name="settings_simkl_sync_info_docs">Leer la guía de sincronización de Simkl</string>
     <string name="settings_simkl_authorization_revoked">La autorización de Simkl fue revocada. Conéctate de nuevo.</string>
+    <string name="settings_tracking_not_connected">No conectado</string>
     <string name="tracking_source_simkl">Simkl</string>
     <string name="tracking_library_source_simkl_selected">Lista de seguimiento de Simkl seleccionada</string>
     <string name="tracking_watch_progress_simkl_selected">Fuente de progreso de visualización establecida en Simkl</string>
@@ -1802,6 +1805,7 @@
     <string name="library_sort_added_asc">Añadidos más antiguos</string>
     <string name="library_sort_added_desc">Añadidos recientemente</string>
     <string name="library_sort_title_asc">Título A–Z</string>
+    <string name="library_error_sort_failed">No se pudo cargar el orden. Se muestra el orden del proveedor.</string>
     <string name="library_sort_title_desc">Título Z–A</string>
     <string name="library_sort_provider_order">Orden del proveedor</string>
     <string name="library_source_cloud">Nube</string>
